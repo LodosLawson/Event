@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893903046195",
+    "project_id": "event-b1d32",
+    "storage_bucket": "event-b1d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893903046195:android:28b12bffbf12d85b654546",
+        "android_client_info": {
+          "package_name": "com.macsoftware.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLljEjTDeTg3xjJNsmm2X7FPrDcaYP-3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
